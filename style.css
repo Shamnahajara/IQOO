@@ -1,0 +1,70 @@
+
+
+.navbar{
+    background-color:white;
+}
+#logo-position{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#item-change{
+    color: white;
+}
+#item-change:hover{
+    color: aqua;
+}
+#dropdown-button{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+
+}
+#dropdown-button:hover{
+    color: aqua;
+}
+section{
+    margin-top: -4px;
+}
+
+.gallery{
+    background-color: white;
+
+}
+#image-size{
+    height: 200px;
+    padding-top: 15px;
+    width: 100%;
+    
+}
+
+.image-fluid{
+    width: 100%;
+    float: left;
+    transition: 1s;
+   
+}
+
+.wait{
+    width: 100%;
+    float: left;
+}
+
+.continer{
+    max-width: 98%;
+    margin: auto;
+}
+.image-fluid img{
+    transition: all ease-in-out .5s;
+}
+.image-fluid img:hover{
+    transform: scale(1.1);
+}
+#icon-size{
+    width: 20px;
+    height: 20px;
+}
+.footer-hcolor{
+    color: grey;
+}
+.footer-hcolor:hover{
+    color: rgb(223, 62, 13);
+}
